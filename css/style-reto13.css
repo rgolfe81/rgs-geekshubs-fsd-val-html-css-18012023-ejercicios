@@ -1,0 +1,27 @@
+table{
+    border: solid black 5px;
+    border-style: outset;
+    width: 90vw;
+    margin: auto;
+}
+td{
+    border: solid black 2px;
+    text-align: center;
+    font-weight:bold;
+    font-size: large;
+}
+.formatoTextoRojo{
+    color: red;
+}
+#formatoCelda1{
+    background-color: lightgreen;
+}
+#formatoCelda2{
+    text-align: left;
+    background-color: lightblue;
+}
+#formatoCelda6{
+    background-color: lightpink;
+    text-align: right;
+    vertical-align: bottom;
+}
