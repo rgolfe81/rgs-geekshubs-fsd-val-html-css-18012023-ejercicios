@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#contenedor{
+    background-image: url("../img/lucan.jpg");
+    width: 40em;
+    height: 30em;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#fondoTabla{
+    background-color: white;
+}
+table{
+    border: solid black 4px;
+    border-style: outset;
+    margin: auto;
+    width: 40vw;
+}
+td, th{
+    border: solid black 1px;
+    text-align: center;
+}
+#formatoFila2{
+    background-color: yellow;
+}
