@@ -1,16 +1,13 @@
 table{
     border: solid blue 8px;
-    border-style: outset;
     border-collapse: collapse;
     margin: auto;
+    border-style: outset;
 }
 th{
     border: solid blue 2px;
     background-color: darkgreen;
     color: lightgreen;
-}
-tr{
-    border: solid blue 2px;
 }
 td{
     border: solid blue 2px;
@@ -25,4 +22,7 @@ td{
 }
 .filaImpar{
     background-color: green;
+}
+.col-centrado{
+    text-align: center;
 }
