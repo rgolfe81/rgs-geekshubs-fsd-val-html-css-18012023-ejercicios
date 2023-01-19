@@ -1,16 +1,15 @@
 table{
-    border: solid blue 8px;
+    border: outset cyan 5px;
     border-collapse: collapse;
     margin: auto;
-    border-style: outset;
 }
 th{
-    border: solid blue 2px;
-    background-color: darkgreen;
+    border: solid cyan 2px;
+    background-color: rgb(1, 21, 1);
     color: lightgreen;
 }
 td{
-    border: solid blue 2px;
+    border: solid cyan 2px;
 }
 .filaTitulo{
     background-color: darkgreen;
@@ -21,7 +20,7 @@ td{
     background-color: lightgreen;
 }
 .filaImpar{
-    background-color: green;
+    background-color: rgb(72, 117, 72);
 }
 .col-centrado{
     text-align: center;

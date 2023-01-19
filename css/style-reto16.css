@@ -1,0 +1,30 @@
+table{
+    border: 5px outset;
+    margin: auto;
+    margin-top: 4em;
+    width: 65vw;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+}
+tr{
+    border: 2px solid;
+}
+td{
+    border: 1px black solid;
+    color:darkred;
+}
+#celdaVerde{
+    background-color: lightgreen;
+}
+.celdasNaranja{
+    background-color: lightsalmon;
+}
+.celdasAmarillas{
+    background-color: rgb(233, 233, 132);
+}
+.celdaImagen{
+    background-image: url("../img/huella_perro.png");
+    background-size: contain;
+    background-repeat: repeat;
+}

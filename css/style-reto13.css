@@ -1,6 +1,5 @@
 table{
-    border: solid black 5px;
-    border-style: outset;
+    border: outset grey 5px;
     width: 90vw;
     margin: auto;
 }
