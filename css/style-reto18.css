@@ -1,0 +1,24 @@
+#anterior{
+    background: repeat-x bottom url(../img/f01.png), no-repeat right url(../img/f02.png), no-repeat top url(../img/f03.png) skyblue;
+    height: 6em;
+    width: 14em;
+    border: blue solid 2px;
+    padding: 0.5em;
+}
+#prueba{
+    margin-top: 1em;
+    margin-left: 1em;
+    background: repeat-x bottom url(../img/f01.png), no-repeat left bottom url(../img/f02.png), repeat-x top url(../img/f03.png) skyblue;
+    height: 20em;
+    width: 30em;
+    border: red solid 4px;
+    padding: 0.5em;
+}
+#posterior{
+    margin-top: 1em;
+    background: repeat-x bottom url(../img/f01.png), no-repeat right url(../img/f02.png), no-repeat top url(../img/f03.png) skyblue;
+    height: 6em;
+    width: 14em;
+    border: blue solid 2px;
+    padding: 0.5em;
+}
